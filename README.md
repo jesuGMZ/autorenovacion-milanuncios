@@ -6,7 +6,7 @@ Autorenovación de anuncios de [MIL ANUNCIOS.com](http://www.milanuncios.com/).
 
 ## Proyecto descontinuado
 
-El uso de este script está obsoleto y su desarrollo por lo tanto descontinuado. Alternativamente puede usarse está [aplicación Android](http://autorenovacionmilanuncios.es/) 100% funcional.
+El uso de este script está obsoleto y su desarrollo por lo tanto descontinuado. Alternativamente puede usarse está [aplicación Android](https://play.google.com/store/apps/details?id=com.moustachedots.autorenovacionmilanuncios) 100% funcional.
 
 ---
 
